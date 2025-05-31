@@ -1,0 +1,54 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    background: #f8f9fa;
+    color: #222;
+}
+
+header {
+    background: #222e3a;
+    color: #fff;
+    padding: 2em 1em 1em 1em;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 0.2em;
+}
+
+section {
+    margin: 2em auto;
+    max-width: 700px;
+    background: #fff;
+    padding: 1.5em 2em;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(44,62,80,0.08);
+}
+
+ul.feeds-list {
+    list-style: none;
+    padding: 0;
+}
+
+ul.feeds-list li {
+    margin: 1em 0;
+}
+
+.icono-feed {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+.botones-validez {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+footer {
+    text-align: center;
+    color: #777;
+    font-size: 0.9em;
+    padding-bottom: 1em;
+}

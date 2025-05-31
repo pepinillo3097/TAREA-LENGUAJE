@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Canal de noticias</title>
+    <link>http://www.noticias.com</link>
+    <description>En este canal tendrás noticias actualizadas a diario</description>
+    <language>es</language>
+    <pubDate>Mon, 7 May 2018 17:32:06 GMT</pubDate>
+    <managingEditor>paco@noticas.com (Paco López)</managingEditor>
+    <image>
+      <url>http://www.noticias.com/img/logo.png</url>
+      <title>Canal de noticias</title>
+      <link>http://www.noticias.com</link>
+    </image>
+    <copyright>Creative Common</copyright>
+    <item>
+      <title>Primera noticia de actualidad</title>
+      <description>Esta noticia es un ejemplo de noticia de actualidad</description>
+      <link>https://www.americannews.com/</link>
+      <guid>http://www.americannews.com/today</guid>
+      <author>john@americannews.com (John Johnson)</author>
+      <category>actualidad</category>
+      <pubDate>Sun, 6 May 2018 12:24:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Segunda noticia de actualidad</title>
+      <link>https://www.titular.es/hoy/segunda.html</link>
+      <guid>http://www.titular.es/segunda.html#titular</guid>
+    </item>
+    <item>
+      <description>Otra noticia de ejemplo</description>
+      <guid>http://www.quepais.com/actualidad/primera.html#titular</guid>
+      <author>maria@actualidad.quepais.com (María Martín)</author>
+      <pubDate>Sun, 6 May 2018 12:24:26 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
+
